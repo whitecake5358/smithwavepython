@@ -58,4 +58,4 @@ def func(n):
         print(f"{n} + {s} = {n + s}")
         s += 1
 
-print(func(5))
+print(func(10))
